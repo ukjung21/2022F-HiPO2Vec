@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# The original source code of Poincare Embedding can be found in  https://github.com/facebookresearch/poincare-embeddings
-# This source code is partially modified for the application to HiG2Vec.
+# The original source code of Poincare Embedding can be found in https://github.com/JaesikKim/HiG2Vec
+# This source code is partially modified for the application to HiPO2Vec.
 
 import torch as th
 import numpy as np
